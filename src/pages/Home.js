@@ -45,7 +45,7 @@ const Home = () => {
             </div>
         </div>
         <footer>
-            <h4> Built with 💛 by &nbsp;<a href="https://github.com/J-Ankit2020">Ankit</a></h4>
+            <h4> Built with 💛 by &nbsp;<a href="https://github.com/Darsh1153">Darshan</a></h4>
         </footer>
     </div>
 }
